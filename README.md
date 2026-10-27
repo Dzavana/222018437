@@ -1,4 +1,4 @@
-# Pule Dzavan
+# Pule Dzavana
 
 Computer Systems & Network Engineering student at the Cape Peninsula University of Technology (CPUT) | Cisco CCNA | Student number 222018437
 
