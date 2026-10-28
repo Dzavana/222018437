@@ -1,8 +1,8 @@
-# Pule Dzavana
+# Pule Dzavana: Digital Portfolio
 
 Computer Systems & Network Engineering student at the Cape Peninsula University of Technology (CPUT) | Cisco CCNA | Student number 222018437
 
-**Live portfolio:** (https://dzavana.github.io/222018437/)
+**Live portfolio:** https://dzavana.github.io/portfolio.github.io/
 
 This portfolio is built for PRP370S Project Presentation 3 and is published with GitHub Pages. The site is a single page, `index.html`.
 
@@ -23,11 +23,12 @@ This portfolio is built for PRP370S Project Presentation 3 and is published with
 
 | File | Purpose |
 |------|---------|
-| `agile.html` | The portfolio page |
+| `index.html` | The portfolio page |
 | `TechEMPOWER_3B_TeamCharter.pdf` | Team Charter evidence |
 | `PRP37XS_Agile_Logbook.pdf` | Agile Logbook evidence |
 | `trello-day1-card.png` | Trello card evidence for User Stories and Tasks |
 | `trello-board.png` | Trello board evidence for the Product and Sprint Backlogs |
+| `trello-survey-plan.png`, `trello-survey-share.png`, `trello-survey-collect.png` | Sprint 3 survey card evidence for User Stories and Tasks |
 
 ## Contact
 
