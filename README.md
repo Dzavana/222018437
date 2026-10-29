@@ -2,7 +2,7 @@
 
 Computer Systems & Network Engineering student at the Cape Peninsula University of Technology (CPUT) | Cisco CCNA | Student number 222018437
 
-**Live portfolio:** https://dzavana.github.io/portfolio.github.io/
+**Live portfolio:** https://dzavana.github.io/222018437/
 
 This portfolio is built for PRP370S Project Presentation 3 and is published with GitHub Pages. The site is a single page, `index.html`.
 
